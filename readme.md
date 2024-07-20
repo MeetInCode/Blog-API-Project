@@ -48,3 +48,7 @@ when i want to crate a new post the flow
             res.status(500).json({ message: "Error fetching posts" });
         }
         });
+
+
+   here's a demo - 
+![ezgif-6-c28c1179dc](https://github.com/user-attachments/assets/9f36e21e-358f-4de1-9e80-7b0d088ce716)
