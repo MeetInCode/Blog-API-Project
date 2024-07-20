@@ -50,5 +50,4 @@ when i want to crate a new post the flow
         });
 
 
-   here's a demo - 
-![ezgif-6-c28c1179dc](https://github.com/user-attachments/assets/9f36e21e-358f-4de1-9e80-7b0d088ce716)
+   here's a demo - ![Blog - Google Chrome 2024-07-20 21-35-03](https://github.com/user-attachments/assets/b1aa05e1-b60d-4f8f-89c0-c789faa09391)
